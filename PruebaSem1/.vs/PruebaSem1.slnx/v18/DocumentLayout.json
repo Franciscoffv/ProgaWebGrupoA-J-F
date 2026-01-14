@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|c:\\users\\laboratorio\\downloads\\repo\\pruebasem1\\pruebasem1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|solutionrelative:pruebasem1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|c:\\users\\laboratorio\\downloads\\repo\\pruebasem1\\pruebasem1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|solutionrelative:pruebasem1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|c:\\users\\laboratorio\\downloads\\repo\\pruebasem1\\pruebasem1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|solutionrelative:pruebasem1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|c:\\users\\laboratorio\\downloads\\repo\\pruebasem1\\pruebasem1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E322F546-AE25-B806-36A3-E17AE06A5150}|PruebaSem1\\PruebaSem1.csproj|solutionrelative:pruebasem1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PruebaSem1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PruebaSem1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T02:03:59.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PruebaSem1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PruebaSem1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T01:54:49.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PruebaSem1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PruebaSem1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T01:47:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaSem1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laboratorio\\Downloads\\Repo\\PruebaSem1\\PruebaSem1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PruebaSem1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T01:47:25.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
